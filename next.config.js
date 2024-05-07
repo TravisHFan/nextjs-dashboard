@@ -2,7 +2,7 @@
 const nextConfig = {};
 
 module.exports = {
-    env: {
-      NEXTAUTH_URL: 'https://localhost:10000'
-    }
+  env: {
+    NEXTAUTH_URL: 'https://hsv.vercel.app'
   }
+}
